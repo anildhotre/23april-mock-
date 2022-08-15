@@ -1,4 +1,4 @@
-package packing;
+package gitdemo;
 
 public class oddeven {
 	public static void evenorodd(int i)

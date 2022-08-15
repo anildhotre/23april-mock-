@@ -1,4 +1,4 @@
-package packing;
+package gitdemo;
 
 public class newclass {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package packing;
+package gitdemo;
 
 public class Demo1 {
 	public static void main(String[] args) {
@@ -6,3 +6,4 @@ public class Demo1 {
 	}
 
 }
+
